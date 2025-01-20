@@ -10,14 +10,13 @@ O **LiterAlura** é um sistema que permite aos usuários buscar livros na API Gu
 - **Livros mais baixados**: Exibe uma lista dos livros mais populares.
 
 ## Tecnologias Utilizadas
-
-- **Java 17**: Linguagem de programação usada para o desenvolvimento.
-- **Spring Boot**: Framework para construir a aplicação.
-- **Gutendex API**: API externa para buscar livros e seus detalhes.
-- **Spring Web**: Usado para consumir as APIs externas.
-- **Spring Data JPA** : Utilizado para persistir dados em banco de dados.
-- **Hibernate**: Para gerenciamento de banco de dados.
-
+- **Java 17**
+- **Spring Boot 3**
+- **Spring Data JPA**
+- **PostgreSQL**
+- **API Gutendex**
+- **Maven**
+- 
 ## Uso
 
 O sistema oferece um menu interativo no terminal com as seguintes opções:
