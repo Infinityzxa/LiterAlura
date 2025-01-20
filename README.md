@@ -15,8 +15,8 @@ O **LiterAlura** é um sistema que permite aos usuários buscar livros na API Gu
 - **Spring Boot**: Framework para construir a aplicação.
 - **Gutendex API**: API externa para buscar livros e seus detalhes.
 - **Spring Web**: Usado para consumir as APIs externas.
-- **Spring Data JPA** (Opcional, desativado para este projeto): Utilizado para persistir dados em banco de dados (caso necessário).
-- **Hibernate**: Para gerenciamento de banco de dados (se necessário, caso o JPA seja reativado).
+- **Spring Data JPA** : Utilizado para persistir dados em banco de dados.
+- **Hibernate**: Para gerenciamento de banco de dados.
 
 ## Uso
 
